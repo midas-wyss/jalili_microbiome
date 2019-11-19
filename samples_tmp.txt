@@ -1,0 +1,8 @@
+sample_names	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Wyss.Hmb11	Hmb1
+sample_id	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Hmb11	Hmb1
+media	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Optimized growth medium plus human microbiome	Undiluted stock
+filename	Wyss.WIAC.008.ae4.Day.1	Wyss.WIAC.024.ae4.Day.3	Wyss.WIAC.016.ae4.Day.2	Wyss.WIAC.001.an1.Day.1	Wyss.WIAC.011.an3.Day.2	Wyss.WIAC.004.an4.Day.1	Wyss.WIAC.006.ae2.Day.1	Wyss.WIAC.023.ae3.Day.3	Wyss.WIAC.020.an4.Day.3	Wyss.WIAC.012.an4.Day.2	Wyss.WIAC.017.an1.Day.3	Wyss.WIAC.010.an2.Day.2	Wyss.WIAC.014.ae2.Day.2	Wyss.WIAC.015.ae3.Day.2	Wyss.WIAC.003.an3.Day.1	Wyss.WIAC.013.ae1.Day.2	Wyss.WIAC.019.an3.Day.3	Wyss.WIAC.022.ae2.Day.3	Wyss.WIAC.009.an1.Day.2	Wyss.WIAC.002.an2.Day.1	Wyss.WIAC.018.an2.Day.3	Wyss.WIAC.021.ae1.Day.3	Wyss.WIAC.007.ae3.Day.1	Wyss.WIAC.005.ae1.Day.1	NA	NA
+day	1	3	2	1	2	1	1	3	3	2	3	2	2	2	1	2	3	3	2	1	3	3	1	1	NA	NA
+condition	aerobic	aerobic	aerobic	anaerobic	anaerobic	anaerobic	aerobic	aerobic	anaerobic	anaerobic	anaerobic	anaerobic	aerobic	aerobic	anaerobic	aerobic	anaerobic	aerobic	anaerobic	anaerobic	anaerobic	aerobic	aerobic	aerobic	NA	NA
+replicate	 4	 4	 4	 1	 3	 4	 2	 3	 4	 4	 1	 2	 2	 3	 3	 1	 3	 2	 1	 2	 2	 1	 3	 1	NA	NA
+cond_day	aerobic1	aerobic3	aerobic2	anaerobic1	anaerobic2	anaerobic1	aerobic1	aerobic3	anaerobic3	anaerobic2	anaerobic3	anaerobic2	aerobic2	aerobic2	anaerobic1	aerobic2	anaerobic3	aerobic3	anaerobic2	anaerobic1	anaerobic3	aerobic3	aerobic1	aerobic1	NA	NA

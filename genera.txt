@@ -1,0 +1,12 @@
+1	Unknown
+2	Sutterella
+3	Bilophila
+4	Akkermansia
+5	Blautia
+6	Oscillospira
+7	Ruminococcus
+8	Enterococcus
+9	[Eubacterium]
+10	Parabacteroides
+11	Bacteroides
+12	Citrobacter
